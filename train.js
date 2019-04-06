@@ -1,5 +1,3 @@
-// THE SOURCE OF MOST OF THIS CODE CAME FROM THE ACTIVITIES IN CLASS
-
 var config = {
   apiKey: "AIzaSyA_QypGPkcjPtylRDscf7-HQl8ribnFeIs",
   authDomain: "time-sheet-55009.firebaseapp.com",
